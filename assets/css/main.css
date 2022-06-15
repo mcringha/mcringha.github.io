@@ -1937,6 +1937,15 @@ input, select, textarea {
 			width: auto;
 		}
 
+		.box.style3 {
+			padding: 3em 2em 3.5em 2em;
+			text-align: left;
+		}
+
+			.box.style3 h3 {
+				margin-bottom: 0.5em;
+			}
+
 /* Icons */
 
 	.icon {
