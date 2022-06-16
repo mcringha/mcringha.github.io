@@ -2018,7 +2018,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #000E54;
+			background-image: url("images/Redsea.jpg");
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
@@ -2145,7 +2145,7 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
-		color: #666;
+		color: #fff;
 		font-size: 1em;
 		line-height: 1em;
 		list-style: none;
