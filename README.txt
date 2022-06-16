@@ -5,9 +5,6 @@ This is my website to-do list:
 
 Home page:
 Nav bar:
-1) Link research to research page
-2) Make about me page and link that
-3) Make pres/pub page and link that
 4) Make gallery page and link that
 5) Make sure each nav bar links from each page
 6) I.e., clicking research should move to that page, not scroll down to snapshot
